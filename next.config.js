@@ -9,3 +9,6 @@ module.exports = nextConfig
 module.exports = {
   useFileSystemPublicRoutes: false,
 };
+module.exports = {
+  trailingSlash: true,
+}

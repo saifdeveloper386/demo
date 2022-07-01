@@ -5,6 +5,9 @@ const index = () => {
   return (
    <>
  this is Home Page
+ <div className="container">
+ this is hello
+ </div>
    </>
   )
 }

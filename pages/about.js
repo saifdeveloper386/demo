@@ -12,6 +12,7 @@ const About = () => {
       <Link href="/"><a> Home </a></Link>
       </button>
             </div>
+            {/* "start": "NODE_ENV=production node server.js", */}
         </div>
      </div>
     </>
